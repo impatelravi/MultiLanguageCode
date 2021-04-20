@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   EnglishLocalization.plist
+   MultiLanguageCode
+
+   Created by Ravi Patel on 14/04/21.
+   Copyright (c) 2021 Ravi Patel. All rights reserved.
+-->
+<plist version="1.0">
+<dict>
+    <key>Done</key>
+    <string>Done</string>
+    <key>Cancel</key>
+    <string>Cancel</string>
+	<key>This is Demo for to show how multi language works</key>
+	<string>This is Demo for to show how multi language works</string>
+</dict>
+</plist>

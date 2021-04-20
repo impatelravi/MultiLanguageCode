@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   HindiLocalization.plist
+   MultiLanguageCode
+
+   Created by Ravi Patel on 14/04/21.
+   Copyright (c) 2021 Ravi Patel. All rights reserved.
+-->
+<plist version="1.0">
+<dict>
+	<key>This is Demo for to show how multi language works</key>
+	<string>यह प्रदर्शित करने के लिए डेमो है कि कितनी भाषाएं काम करती हैं</string>
+    <key>Done</key>
+    <string>किया हुआ</string>
+    <key>Cancel</key>
+    <string>रद्द करना</string>
+</dict>
+</plist>
